@@ -78,15 +78,15 @@ This project exemplifies how data visualization can drive awareness, policy deve
 ## 📂 Repository Structure
 
 📁 data/
-└── ev_data.csv # Raw EV population data
+└── Electric_Vehicle_Population_Data.xlsb # Raw EV population data
 
 📁 assets/
-└── dashboard.png # Dashboard image/screenshot
+└── dashboard image.png # Dashboard image/screenshot
 
-📁 docs/
-└── report.pdf # (Optional) Project report or documentation
+📁 Presentation/
+└── Electric Vehicle Presentation.pptx # (Optional) Project report or documentation
 
-📄 EV_Analytics_Dashboard.pbix # Power BI dashboard file
+📄 dashboard.pbix # Power BI dashboard file
 📄 README.md # Project description
 
 
