@@ -84,7 +84,7 @@ This project exemplifies how data visualization can drive awareness, policy deve
 └── dashboard image.png # Dashboard image/screenshot
 
 📁 Presentation/
-└── Electric Vehicle Presentation.pptx # (Optional) Project report or documentation
+└── Electric Vehicle Presentation.pptx # Power point presentation
 
 📄 dashboard.pbix # Power BI dashboard file
 📄 README.md # Project description
