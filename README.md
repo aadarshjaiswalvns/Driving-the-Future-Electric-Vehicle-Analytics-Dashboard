@@ -1,6 +1,6 @@
 # 🚗 Driving the Future: Electric Vehicle Analytics Dashboard
 
-![Power BI Dashboard](https://github.com/aadarshjaiswalvns/Driving-the-Future-Electric-Vehicle-Analytics-Dashboard/blob/main/Dashboard%20image.png) <!-- (Optional: Add a screenshot of your dashboard here) -->
+![Power BI Dashboard](https://github.com/aadarshjaiswalvns/Driving-the-Future-Electric-Vehicle-Analytics-Dashboard/blob/main/Dashboard%20image.png) 
 
 ## 📊 Project Overview
 
