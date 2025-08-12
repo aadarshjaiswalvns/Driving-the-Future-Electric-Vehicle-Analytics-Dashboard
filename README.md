@@ -93,16 +93,6 @@ This project exemplifies how data visualization can drive awareness, policy deve
 
 ---
 
-## 🚀 How to View the Dashboard
-
-To explore the dashboard:
-
-1. Download the `.pbix` file.
-2. Open with [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
-3. Use filters and visuals to explore insights interactively.
-
----
-
 ## 📬 Connect with Me
 
 **Aadarsh Jaiswal**  
